@@ -1,0 +1,30 @@
+{
+  "paper_filename": "paper.pdf.pdf",
+  "questions": [
+    {
+      "question": "What questions were participants asked in the interviews?",
+      "expected_pages": [4],
+      "keywords": ["interview"]
+    },
+    {
+      "question": "What are the keywords of the paper?",
+      "expected_pages": [1],
+      "keywords": ["learner autonomy"]
+    },
+    {
+      "question": "How experienced did the subjects consider themselves in using mobile devices for learning English?",
+      "expected_pages": [9],
+      "keywords": ["inexperienced"]
+    },
+    {
+      "question": "What does Benson say about educational technologies and learner autonomy?",
+      "expected_pages": [1],
+      "keywords": ["Benson"]
+    },
+    {
+      "question": "What topics did earlier studies on mobile devices in language learning cover?",
+      "expected_pages": [3],
+      "keywords": ["Stockwell", "Cakir"]
+    }
+  ]
+}
